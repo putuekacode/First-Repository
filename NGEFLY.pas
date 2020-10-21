@@ -903,7 +903,4 @@ begin
       end ;
   end;
   end;
-  {FUCKKKKK SUSAH SEKALI BIAR BISA KEULANG TERUS
-SAAT SI USER MENGETIK ENTER}
-  
 end.
